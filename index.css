@@ -1,0 +1,210 @@
+@media (max-width:768px){
+    .logo{
+        width: 100px;
+    }
+
+    .navmenu{
+        padding: 5px;
+        margin-right: 10px;
+        gap: 5px;
+    }
+
+    .lang-options{
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    .navbarcontainer{
+        width: 100%;
+        
+       
+    }
+
+    .navmenu select{
+        padding: 5px;
+    }
+
+    .navmenu button{
+        padding: 10px;
+    }
+
+    .hero-container h1{
+        font-size: 2rem;
+        font-weight: 700;
+    }
+   
+    .hero-container{
+        top: 20%;
+    }
+
+    .jointoday p{
+        font-size: 1.2rem;
+        font-weight: 400;
+    }
+
+    .readytowatch h3 {
+        font-size: 1.1rem;
+    }
+
+    .input-form {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .input-form input{
+        width: 85%;
+        padding-left: 10px;
+    }
+
+
+    .featurescontainer{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .enjoyyourday-heading h2{
+        margin: 0;
+        font-size: 2rem;
+        font-weight: 700;
+        text-align: center;
+    }
+
+    .enjoyyourday-quote p{
+        margin: 1rem 0 0;
+        font-size: 1.125rem;
+        font-weight: 400;
+        text-align: center;
+    }
+
+    
+
+    /* Section-2 */
+
+    .section2-container{
+        display: flex;
+        flex-direction: column-reverse;
+
+    }
+
+    .downloadyourshows-heading h2{
+        font-size: 2rem;
+        font-weight: 700;
+        text-align: center;
+        margin: 0;
+
+    }
+
+    .rightpart{
+        width: 100%;
+        padding: 20px;
+        
+    }
+
+    .downloadyourshows-quote p{
+        margin: 1rem 0 0;
+        font-size: 1.125rem;
+        font-weight: 400;
+        text-align: center;
+    
+    }
+
+   
+    .strangething-container{
+        width: 60%;
+        padding: 0.25rem 0.65rem;
+
+    }
+
+    .strangething-img{
+        width: 10%;
+    
+    }
+
+      .strangethings{
+        font-weight: 500;
+        font-size: 0.875rem;
+       }
+    
+       .strangethings-quote{
+        display: flex;
+        flex-direction: column;
+        padding: 10px;
+        align-items: center;
+
+    }
+
+    /* Section-3 */
+  
+    .section3-container{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .watcheverywhere-heading h2{
+        font-size: 2rem;
+        font-weight: 700;
+        text-align: center;
+        margin: 0;
+    }
+   
+    .watcheverywhere-quote p{
+        margin: 1rem 0 0;
+        font-size: 1.125rem;
+        font-weight: 400;
+        text-align: center;
+    
+    }
+
+    /* Section-4 */
+
+    .section4-container{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .createprofile-heading h2{
+        font-size: 2rem;
+        font-weight: 700;
+        text-align: center;
+    }
+    
+    .createprofile-quote p{
+        margin: 1rem 0 0;
+        font-size: 1.125rem;
+        font-weight: 400;
+        text-align: center;
+    
+    }
+
+    .children-image{
+        width: 100%;
+    }
+
+
+    /* FAQ-Section */
+
+    .FAQ-heading{
+        font-size: 1.4rem;
+        font-weight: 700;
+        text-align: center;
+    }
+
+    .FAQ{
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        padding: 14px;
+        text-align: center;
+        
+    }
+
+    .left-maal{
+        padding-left: 0px;
+    }
+
+    .left-section{
+        padding-left: 0;
+    }
+
+   
+}
